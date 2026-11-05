@@ -1,0 +1,9 @@
+--atlas -f rgba8888 -z auto
+background.png
+base.png
+bluebird-downflap.png
+bluebird-midflap.png
+bluebird-upflap.png
+pipe-green.png
+gameover.png
+message.png
